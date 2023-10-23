@@ -128,10 +128,10 @@ module.exports = {
               )
               .setDescription(
                 [
-                  `* You don't have <@1165337532930736138> on your server yet? **https://invite.flixtunes.xyz**`,
-                  `* Do you want a invite your friend here? **https://support.flixtunes.xyz**`,
-                  `* How your data is used by FlixTune? **https://privacy.flixtunes.xyz**`,
-                  `* Check our ToS *(Terms of Service)* here: **https://tos.flixtunes.xyz**`,
+                  `* You don't have <@1165337532930736138> on your server yet? **https://invite.flixtune.xyz**`,
+                  `* Do you want a invite your friend here? **https://support.flixtune.xyz**`,
+                  `* How your data is used by FlixTune? **https://privacy.flixtune.xyz**`,
+                  `* Check our ToS *(Terms of Service)* here: **https://tos.flixtune.xyz**`,
                   ``,
                   `Please follow our <#${config.channels.rules}> and [Discord's Community GuildLines](https://discord.com/guildlines), as well as some common sense at all times. This is the only Official Discord Server for <@1165337532930736138>. We never ask for your personal or billing information!`,
                 ].join("\n")
